@@ -1,4 +1,4 @@
 # my_first_repository
-My first repo
+My first repo/.
 Work Book:
 
